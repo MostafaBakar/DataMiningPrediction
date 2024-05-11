@@ -1,0 +1,299 @@
+﻿EducationLevel,Age,Salary,YearsOfExperience,Gender,JobTitle
+Bachelor's,32,90000,5,Male,Accountant
+Master's,28,65000,3,Female,Business Analyst
+PhD,45,,15,Male,Data Scientist
+Bachelor's,36,60000,,Female,Software Engineer
+Master's,52,200000,20,Male,Software Engineer
+Bachelor's,29,55000,2,Male,Marketing Manager
+Master's,42,120000,12,Female,Marketing Manager
+Bachelor's,31,80000,,Male,Accountant
+Bachelor's,26,45000,1,Female,Accountant
+PhD,38,110000,10,Male,Business Analyst
+Master's,29,75000,3,Male,Software Engineer
+Bachelor's,48,140000,18,Female,Software Engineer
+Bachelor's,35,65000,6,Male,Marketing Manager
+Master's,40,130000,14,Female,Marketing Manager
+Bachelor's,27,40000,2,Male,Software Engineer
+Bachelor's,,125000,16,Male,Business Analyst
+Master's,33,90000,7,Female,Data Scientist
+PhD,39,,12,Male,Accountant
+Bachelor's,25,35000,0,Female,Data Scientist
+Bachelor's,51,180000,22,Male,Marketing Manager
+Master's,34,80000,5,Female,Data Scientist
+Master's,47,190000,19,Male,Data Scientist
+Bachelor's,30,50000,,Male,Business Analyst
+Bachelor's,36,60000,9,Female,Software Engineer
+Master's,41,140000,13,Male,Accountant
+Bachelor's,28,45000,3,Female,Software Engineer
+Master's,37,110000,11,Female,Data Scientist
+Bachelor's,24,40000,1,Male,Data Scientist
+PhD,43,140000,15,Female,Business Analyst
+Master's,33,90000,6,Male,Data Scientist
+Bachelor's,50,250000,25,Male,Accountant
+Bachelor's,31,55000,4,Female,Marketing Manager
+Master's,29,75000,3,Male,Marketing Manager
+Bachelor's,39,65000,10,Female,Accountant
+PhD,46,170000,20,Male,Marketing Manager
+Bachelor's,27,45000,2,Male,Marketing Manager
+Bachelor's,35,60000,7,Female,Accountant
+Master's,42,115000,14,Male,Accountant
+Bachelor's,26,40000,1,Female,Marketing Manager
+Bachelor's,49,160000,21,Male,Accountant
+Master's,34,80000,5,Female,Business Analyst
+Master's,48,190000,18,Male,Data Scientist
+Bachelor's,30,60000,3,Male,Software Engineer
+Bachelor's,36,45000,8,Female,Accountant
+Master's,41,130000,13,Male,Accountant
+Bachelor's,28,40000,2,Female,Marketing Manager
+Bachelor's,32,75000,5,Male,Accountant
+Master's,45,180000,16,Female,Accountant
+PhD,38,120000,11,Male,Data Scientist
+Bachelor's,25,35000,0,Male,Business Analyst
+Bachelor's,,130000,22,Female,Marketing Manager
+Master's,33,85000,7,Male,Accountant
+Bachelor's,40,60000,12,Female,Marketing Manager
+Master's,47,200000,19,Male,Marketing Manager
+Bachelor's,29,50000,3,Female,Marketing Manager
+Bachelor's,36,95000,9,Male,Marketing Manager
+Master's,27,65000,2,Female,Data Scientist
+PhD,43,140000,17,Male,Accountant
+Bachelor's,30,55000,4,Female,Business Analyst
+Master's,35,105000,7,Male,Business Analyst
+Master's,51,170000,23,Female,Business Analyst
+Bachelor's,29,,3,Male,Marketing Manager
+Bachelor's,40,80000,12,Female,Marketing Manager
+PhD,47,180000,21,Male,Business Analyst
+Bachelor's,26,35000,1,Male,Accountant
+Master's,38,90000,10,Female,Software Engineer
+Bachelor's,46,120000,19,Male,Data Scientist
+Bachelor's,31,45000,5,Female,Data Scientist
+Master's,34,90000,8,Male,Business Analyst
+Master's,49,150000,18,Female,Software Engineer
+Bachelor's,33,65000,6,Male,Marketing Manager
+Bachelor's,39,70000,11,Female,Data Scientist
+PhD,45,,16,Male,Software Engineer
+Bachelor's,28,40000,2,Male,Accountant
+Master's,42,120000,14,Female,Business Analyst
+Bachelor's,37,95000,10,Male,Business Analyst
+Bachelor's,50,160000,22,Female,Accountant
+Master's,32,100000,6,Male,Marketing Manager
+Master's,48,180000,20,Female,Software Engineer
+Bachelor's,30,55000,3,Female,Business Analyst
+Bachelor's,36,70000,8,Male,Business Analyst
+Master's,41,80000,13,Female,Software Engineer
+Bachelor's,25,30000,0,Male,Business Analyst
+PhD,52,250000,24,Male,Marketing Manager
+Bachelor's,29,40000,2,Female,Business Analyst
+Master's,34,95000,10,Female,Marketing Manager
+Bachelor's,27,45000,2,Male,Data Scientist
+Bachelor's,40,80000,15,Female,Business Analyst
+Master's,46,135000,21,Male,Marketing Manager
+Bachelor's,31,55000,6,Female,Data Scientist
+PhD,36,120000,11,Male,Business Analyst
+Bachelor's,29,40000,3,Female,Accountant
+Bachelor's,43,105000,18,Male,Data Scientist
+Master's,52,170000,25,Female,Accountant
+Bachelor's,33,75000,7,Male,Marketing Manager
+Bachelor's,39,65000,12,Female,Business Analyst
+PhD,47,160000,22,Male,Data Scientist
+Bachelor's,26,35000,1,Male,Data Scientist
+Master's,38,90000,10,Female,Data Scientist
+Bachelor's,45,110000,20,Male,Data Scientist
+Bachelor's,31,45000,5,Female,Business Analyst
+Master's,35,95000,8,Male,Business Analyst
+Master's,49,150000,19,Female,Marketing Manager
+Bachelor's,33,50000,5,Male,Business Analyst
+Master's,39,80000,13,Female,Marketing Manager
+PhD,44,220000,16,Male,Accountant
+Bachelor's,30,50000,3,Female,Accountant
+Bachelor's,36,60000,7,Male,Marketing Manager
+Master's,41,100000,14,Female,Data Scientist
+Bachelor's,28,40000,2,Male,Business Analyst
+Master's,42,110000,15,Female,Data Scientist
+Bachelor's,37,95000,9,Male,Marketing Manager
+Bachelor's,50,130000,22,Female,Software Engineer
+Master's,32,90000,6,Male,Accountant
+Bachelor's,23,35000,0.5,Female,Data Scientist
+Master's,31,95000,6,Male,Software Engineer
+Bachelor's,40,65000,15,Female,Marketing Manager
+PhD,48,170000,20,Male,Business Analyst
+Bachelor's,29,45000,3,Female,Marketing Manager
+Master's,35,120000,10,Male,Business Analyst
+Bachelor's,42,,17,Female,Marketing Manager
+Master's,53,180000,25,Male,Marketing Manager
+Bachelor's,33,50000,5,Female,Accountant
+Bachelor's,38,80000,11,Male,Accountant
+PhD,44,140000,16,Female,Accountant
+Bachelor's,26,40000,2,Male,Marketing Manager
+Master's,37,95000,9,Female,Accountant
+Bachelor's,45,110000,18,Male,Software Engineer
+Bachelor's,32,50000,4,Female,Data Scientist
+Master's,34,105000,8,Male,Accountant
+Master's,50,160000,21,Female,Data Scientist
+Bachelor's,29,45000,3,Male,Marketing Manager
+Master's,40,100000,12,Female,Marketing Manager
+PhD,47,160000,22,Male,Data Scientist
+Bachelor's,27,35000,1,Male,Business Analyst
+Bachelor's,39,55000,10,Female,Marketing Manager
+Master's,46,,19,Male,Marketing Manager
+Bachelor's,30,50000,4,Female,Data Scientist
+Bachelor's,36,60000,7,Male,Accountant
+Master's,43,120000,14,Female,Accountant
+Bachelor's,28,40000,2,Male,Accountant
+Master's,41,110000,13,Female,Business Analyst
+Bachelor's,33,50000,5,Male,Business Analyst
+Bachelor's,47,135000,20,Male,Accountant
+Master's,25,40000,1.5,Female,Software Engineer
+Bachelor's,34,90000,8,Male,Software Engineer
+PhD,42,150000,16,Female,Accountant
+Bachelor's,31,60000,4,Male,Marketing Manager
+Bachelor's,38,80000,10,Female,Business Analyst
+Master's,45,175000,19,Male,Data Scientist
+Bachelor's,29,,3,Female,Business Analyst
+Master's,36,120000,11,Male,Business Analyst
+PhD,43,140000,18,Female,Marketing Manager
+Bachelor's,26,35000,2,Male,Marketing Manager
+Master's,37,95000,9,Female,Business Analyst
+Bachelor's,44,110000,14,Male,Data Scientist
+Bachelor's,32,50000,5,Female,Business Analyst
+Master's,33,115000,7,Male,Marketing Manager
+PhD,51,185000,23,Female,Software Engineer
+Bachelor's,28,40000,2,Male,Business Analyst
+Bachelor's,39,90000,12,Female,Data Scientist
+Master's,48,175000,21,Male,Software Engineer
+Bachelor's,30,45000,3,Female,Accountant
+Bachelor's,35,80000,7,Male,Business Analyst
+Master's,41,120000,13,Female,Data Scientist
+Bachelor's,27,35000,1.5,Male,Accountant
+Bachelor's,40,110000,14,Female,Accountant
+PhD,46,150000,18,Male,Software Engineer
+Bachelor's,31,50000,4,Female,Marketing Manager
+Master's,34,105000,9,Male,Data Scientist
+Master's,50,180000,20,Female,Software Engineer
+Bachelor's,29,40000,2,Male,Software Engineer
+Bachelor's,43,140000,16,Male,Software Engineer
+Master's,26,45000,1.5,Female,Business Analyst
+Bachelor's,35,85000,7,Male,Marketing Manager
+PhD,42,140000,18,Female,Marketing Manager
+Bachelor's,31,50000,4,Male,Marketing Manager
+Bachelor's,38,80000,10,Female,Business Analyst
+Master's,46,170000,20,Male,Software Engineer
+Bachelor's,29,,2,Female,Marketing Manager
+Master's,37,105000,9,Male,Software Engineer
+PhD,44,145000,15,Female,Business Analyst
+Bachelor's,27,40000,2,Male,Accountant
+Bachelor's,36,85000,8,Female,Accountant
+Bachelor's,43,130000,14,Male,Software Engineer
+Master's,33,95000,6,Female,Accountant
+Bachelor's,34,100000,9,Male,Software Engineer
+PhD,50,180000,22,Female,Marketing Manager
+Bachelor's,28,35000,1.5,Male,Software Engineer
+Bachelor's,39,95000,12,Female,Business Analyst
+Master's,47,170000,19,Male,Accountant
+Bachelor's,30,45000,3,Female,Marketing Manager
+Bachelor's,34,95000,7,Male,Marketing Manager
+Master's,40,120000,13,Female,Marketing Manager
+Bachelor's,28,40000,2,Male,Marketing Manager
+Bachelor's,41,90000,11,Female,Business Analyst
+PhD,45,155000,17,Male,Business Analyst
+Bachelor's,32,55000,5,Female,Data Scientist
+Master's,35,110000,9,Male,Data Scientist
+Master's,49,180000,21,Female,Software Engineer
+Bachelor's,30,45000,3,Male,Software Engineer
+Bachelor's,44,130000,16,Male,Marketing Manager
+Master's,27,45000,,Female,Marketing Manager
+Bachelor's,36,90000,7,Male,Business Analyst
+PhD,41,160000,17,Female,Business Analyst
+Bachelor's,31,50000,4,Male,Business Analyst
+Bachelor's,39,120000,10,Female,Data Scientist
+Master's,47,170000,20,Male,Business Analyst
+Bachelor's,30,40000,2,Female,Data Scientist
+Master's,38,110000,9,Male,Accountant
+PhD,45,150000,15,Female,Business Analyst
+Bachelor's,28,40000,2,Male,Accountant
+Bachelor's,35,85000,8,Female,Accountant
+Bachelor's,44,130000,14,Male,Marketing Manager
+Master's,34,100000,6,Female,Software Engineer
+Bachelor's,35,95000,9,Male,Data Scientist
+PhD,50,180000,22,Female,Accountant
+Bachelor's,29,35000,1.5,Male,Marketing Manager
+Bachelor's,40,100000,12,Female,Accountant
+Master's,48,170000,19,Male,Business Analyst
+Bachelor's,31,45000,3,Female,Business Analyst
+Bachelor's,33,100000,7,Male,Marketing Manager
+Master's,42,140000,13,Female,Marketing Manager
+Bachelor's,28,40000,2,Male,Software Engineer
+Bachelor's,40,105000,11,Female,Accountant
+PhD,46,160000,18,Male,Accountant
+Bachelor's,33,70000,5,Female,Data Scientist
+Master's,37,120000,9,Male,Software Engineer
+Master's,51,190000,21,Female,Software Engineer
+Bachelor's,30,45000,3,Male,Data Scientist
+Bachelor's,43,120000,15,Male,Software Engineer
+Master's,27,50000,1.5,Female,Business Analyst
+Bachelor's,,85000,8,Male,Software Engineer
+PhD,42,140000,13,Female,Accountant
+Bachelor's,32,45000,3,Male,Software Engineer
+Bachelor's,37,100000,9,Female,Software Engineer
+Master's,45,140000,16,Male,Business Analyst
+Bachelor's,33,70000,5,Female,Marketing Manager
+Bachelor's,39,120000,10,Male,Accountant
+PhD,44,160000,18,Female,Data Scientist
+Bachelor's,29,40000,1.5,Male,Marketing Manager
+Bachelor's,38,120000,10,Female,Data Scientist
+PhD,46,150000,19,Male,Data Scientist
+Bachelor's,34,70000,6,Female,Marketing Manager
+Bachelor's,36,95000,8,Male,Business Analyst
+Master's,49,180000,21,Female,Marketing Manager
+Bachelor's,31,50000,3,Male,Marketing Manager
+Bachelor's,41,95000,11,Female,Data Scientist
+Master's,47,170000,20,Male,Marketing Manager
+Bachelor's,30,40000,2,Female,Business Analyst
+Master's,38,110000,9,Male,Accountant
+PhD,45,150000,15,Female,Accountant
+Bachelor's,28,40000,2,Male,Accountant
+Bachelor's,35,85000,8,Female,Marketing Manager
+Bachelor's,44,130000,14,Male,Software Engineer
+Master's,34,100000,6,Female,Accountant
+Bachelor's,35,95000,9,Male,Marketing Manager
+PhD,50,180000,22,Female,Accountant
+Bachelor's,29,350,1.5,Male,Marketing Manager
+Bachelor's,37,120000,10,Female,Accountant
+PhD,46,160000,18,Male,Software Engineer
+Bachelor's,31,50000,3,Female,Marketing Manager
+Bachelor's,42,110000,12,Male,Accountant
+Bachelor's,29,40000,1.5,Female,Software Engineer
+Bachelor's,36,95000,8,Male,Accountant
+Master's,44,140000,15,Female,Software Engineer
+Bachelor's,33,60000,4,Male,Marketing Manager
+Bachelor's,39,110000,9,Female,Accountant
+PhD,45,150000,16,Male,Accountant
+Bachelor's,32,60000,4,Female,Data Scientist
+Bachelor's,37,90000,8,Male,Business Analyst
+Master's,47,180000,20,Female,Data Scientist
+Bachelor's,30,40000,2,Male,Data Scientist
+Bachelor's,38,120000,9,Female,Software Engineer
+PhD,46,160000,17,Male,Software Engineer
+Bachelor's,34,70000,5,Female,Data Scientist
+Bachelor's,36,95000,8,Male,Business Analyst
+Master's,49,180000,21,Female,Business Analyst
+Bachelor's,31,50000,3,Male,Data Scientist
+Bachelor's,41,95000,11,Female,Software Engineer
+Master's,47,170000,19,Male,Accountant
+Bachelor's,29,35000,1.5,Female,Accountant
+Bachelor's,35,100000,9,Male,Business Analyst
+PhD,44,150000,15,Female,Accountant
+Bachelor's,33,60000,4,Male,Accountant
+Bachelor's,35,85000,8,Female,Marketing Manager
+Bachelor's,44,130000,13,Male,Business Analyst
+Bachelor's,32,65000,4,Male,Software Engineer
+Bachelor's,38,110000,10,Female,Accountant
+PhD,49,180000,21,Male,Marketing Manager
+Bachelor's,29,40000,2,Female,Marketing Manager
+Bachelor's,35,90000,7,Male,Marketing Manager
+Master's,45,140000,14,Female,Software Engineer
+Bachelor's,33,60000,4,Male,Software Engineer
+Bachelor's,40,130000,12,Female,Data Scientist
+PhD,44,160000,16,Male,Software Engineer
+Bachelor's,30,40000,2,Female,Marketing Manager
+Bachelor's,37,100000,9,Male,Data Scientist
